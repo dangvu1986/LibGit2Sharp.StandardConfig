@@ -1,0 +1,6 @@
+[submodule "CustA.01"]
+	path = LibGit2Sharp.CustASubMode2
+	url = https://github.com/dangvu1986/LibGit2Sharp.CustASubMode2.git
+[submodule "CustA.02"]
+	path = LibGit2Sharp.CustASubMode11
+	url = https://github.com/dangvu1986/LibGit2Sharp.CustASubMode11.git
